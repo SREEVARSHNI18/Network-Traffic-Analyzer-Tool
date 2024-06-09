@@ -7,7 +7,7 @@
 This repository contains scripts for analyzing network traffic captured in a PCAP file. The scripts provide insights into various aspects of the network traffic, including protocol distribution, communication patterns between IP addresses, and detection of potential port scanning activities.
 
 ## Contents
-1. **analyze_traffic.py**: This script reads a PCAP file, processes the captured packets, and provides an analysis of the network traffic.
+1. **main.py**: This script reads a PCAP file, processes the captured packets, and provides an analysis of the network traffic.
    
 2. **requirements.txt**: This file lists all the dependencies required to run the scripts. You can install them using `pip install -r requirements.txt`.
 
