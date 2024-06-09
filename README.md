@@ -18,7 +18,7 @@ To use the network traffic analyzer, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the dependencies listed in `requirements.txt`.
-3. Run the `sample.py` script with the path to the PCAP file as an argument. Optionally, you can specify a port scan threshold. For example:
+3. Run the `main.py` script with the path to the PCAP file as an argument. Optionally, you can specify a port scan threshold. For example:
 4. The script will provide various analyses such as protocol distribution, IP communication patterns, latency, packet loss, throughput, and potential port scanning activities.
 
 ## Dependencies
